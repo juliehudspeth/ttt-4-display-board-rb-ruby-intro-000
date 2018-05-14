@@ -6,9 +6,6 @@ def display_board (board)
   puts "   |   |   "
 end
 
-board = [" "," "," "," "," "," "," "," "," "]
-display_board (board)
-
 board = [" "," "," "," ","X"," "," "," "," "]
 display_board (board)
 
